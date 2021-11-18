@@ -360,12 +360,12 @@ body {
   position: relative;
 	display: inline-block;
 	text-align: left;
- width: 100%;
-   text-decoration: none;
+  width: 100%;
+  text-decoration: none;
 }
 
 .sociallink-separator {
-    height: 0.5px;
+  height: 0.5px;
   background-color: #CCCCCC;
   width: -moz-calc(100% - 44px);
   width: -webkit-calc(100% - 44px);
@@ -826,6 +826,13 @@ a.avatarlink {
     }
   }
   
+@media (max-width: 321px){  
+  .social-footer img {
+    padding: 10px;
+    margin-top: 80px;
+    margin-bottom: 32px;
+  }
+}
 
 
 
