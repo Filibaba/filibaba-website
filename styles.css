@@ -365,8 +365,8 @@ body {
 }
 
 .sociallink-separator {
-  height: 0.5px;
-  background-color: #CCCCCC;
+  height: 1px;
+  background-color: #E6E6E6;
   width: -moz-calc(100% - 44px);
   width: -webkit-calc(100% - 44px);
   width: calc(100% - 44px);
