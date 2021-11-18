@@ -237,9 +237,10 @@ body {
   margin-left: 110px;
 }
 
-.card-illustration-meals {
-  margin-top: 37.5px;
-  margin-left: 42.5px;
+.card-vertical-align {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .card:hover {
@@ -672,6 +673,7 @@ a.avatarlink {
     
   .card-illustration-meals {
     width: 92%;
+    height: auto;
     margin: 10% 4%; 
   }  
 
@@ -752,6 +754,7 @@ a.avatarlink {
 
   .card-phones img {
     width: 84%;
+    height: auto;
     margin: 8% 8% 0px 8%;
   }
 
@@ -775,6 +778,7 @@ a.avatarlink {
   
   .card-illustration-meals-mobile img {
     width: 92%;
+    height: auto;
     margin: 12% 4%; 
   }
     
