@@ -96,8 +96,8 @@ body {
   }
   
   .site-nav-left, .site-nav-right{
+    margin-left: 16px;
     margin-right: 12px;
-    margin-left: 12px;
   }
 
   .filibaba-logo img{
