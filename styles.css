@@ -107,7 +107,7 @@ body {
 
   .site-nav-regular {
     font-size: 15px;
-    margin: 0 1px 0 1px;
+    margin: 0 2px 0 2px;
     padding: 7px 10px 8px 10px;
   }
 }
@@ -115,6 +115,10 @@ body {
 @media (max-width: 360px){
   .filibaba-logo{
     display: none;
+  }
+  
+  .site-nav-regular {
+    margin: 0 1px 0 1px;
   }
 }
 
