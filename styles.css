@@ -36,10 +36,10 @@ body {
 
 .site-nav-left{
   float: left;
-  margin-left: 24px;
+  margin-left: 20px;
 	display: flex;
 	align-items: center;
-	height: 88px;
+	height: 80px;
 }
 
 .site-nav-right{
@@ -49,7 +49,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 88px;
+	height: 80px;
 }
   
 .site-nav-regular{
@@ -137,6 +137,7 @@ body {
 }
 
 .header-picture img {
+  margin-top: 90px;
   display: block;
   width: 130vw;
   height: auto;
@@ -878,7 +879,7 @@ a.avatarlink {
   }  
   
   .site-nav{
-    background-color:rgba(24,24,24,.7);
+    background-color:rgba(0,0,0,.7);
   }
 
   .site-nav-regular,
