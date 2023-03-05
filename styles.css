@@ -431,6 +431,10 @@ footer a:active {
 	margin: 0 1 0vw;
 }
 
+.apple-notice{
+    padding-bottom: env(safe-area-inset-bottom);
+}
+
 .social-footer {
   padding: 0;
   margin: 0;
